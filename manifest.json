@@ -1,0 +1,15 @@
+{
+  "name": "Kunlik Norma",
+  "short_name": "Norma",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#764ba2",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2649/2649223.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
